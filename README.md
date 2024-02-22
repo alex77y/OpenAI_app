@@ -1,4 +1,4 @@
-# Chest X-Ray Image Captioning with OpenAI GPT Fine-tuning
+# Recipe ingredient extraction with OpenAI GPT Fine-tuning
 
 ## Overview
 This project aims to leverage the powerful language generation capabilities of OpenAI's GPT models to automatically generate captions for chest X-ray images. By fine-tuning GPT on a specialized dataset of X-ray images and associated medical reports, the model can assist radiologists and healthcare professionals by providing initial draft reports, which can then be reviewed and edited as necessary.
